@@ -37,11 +37,13 @@ public class InputKaryawan2 {
         System.out.println("Usia : " + karyawan1.tampilUsia());
         System.out.println("Email : " + karyawan1.tampilEmail());
         System.out.println("Id : " + karyawan1.tampilId());
+
         System.out.println("\nNama Karyawan : " + karyawan2.tampilNama());
         System.out.println("Alamat : " + karyawan2.tampilAlamat());
         System.out.println("Usia : " + karyawan2.tampilUsia());
         System.out.println("Email : " + karyawan2.tampilEmail());
         System.out.println("Id : " + karyawan2.tampilId());
+
         System.out.println("\nNama Karyawan : " + karyawan3.tampilNama());
         System.out.println("Alamat : " + karyawan3.tampilAlamat());
         System.out.println("Usia : " + karyawan3.tampilUsia());
