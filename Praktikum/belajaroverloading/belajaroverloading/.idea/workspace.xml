@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f9101e1-608c-444b-98c5-32d4e0f20c1b" name="Default Changelist" comment="" />
+    <list default="true" id="9f9101e1-608c-444b-98c5-32d4e0f20c1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tugas/Praktikum 04/Tugas/Karyawan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Tugas/Praktikum 04/Tugas/Karyawan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../helloword/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../helloword/src/main/java/helloword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/AngkaTertentu/src/angkatertentu/AngkaTertentu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Cetak0-100/src/cetak0/pkg100/Cetak0100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/CetakGenap/src/cetakgenap/CetakGenap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTertentu/src/menghitungangkatertentu/MenghitungAngkaTertentu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/MenghitungAngkaTidakBerurut/src/menghitungangkatidakberurut/MenghitungAngkaTidakBerurut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/Penjumlahan1-n/src/penjumlahan1/n/Penjumlahan1N.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/diulanglebih100/src/diulanglebih100/Diulanglebih100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/do_while/src/do_while/Do_while.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/for/src/pkgfor/For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/if_percabangan/src/if_percabangan/If_percabangan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/src/praktikum02/Praktikum02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/swich/src/swich/Swich.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../praktikum02/while/src/pkgwhile/While.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +111,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1SKBQqXx7nf03Rw4ldSQAYAAcAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -29,6 +132,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Pewarisan">
+    <configuration name="BelajarOverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.belajaroverloading.BelajarOverLoading" />
+      <module name="belajaroverloading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.belajaroverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BelajarStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.belajarstatic.BelajarStatic" />
       <module name="belajaroverloading" />
@@ -69,11 +185,13 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BelajarStatic" />
       <item itemvalue="Application.Pewarisan" />
+      <item itemvalue="Application.BelajarOverLoading" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Pewarisan" />
         <item itemvalue="Application.BelajarStatic" />
+        <item itemvalue="Application.BelajarOverLoading" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +207,18 @@
       <updated>1571302393751</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
