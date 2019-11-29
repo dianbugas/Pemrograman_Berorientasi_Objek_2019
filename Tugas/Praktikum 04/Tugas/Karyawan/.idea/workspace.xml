@@ -2,6 +2,173 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb37621-ed2d-48b7-b50e-3f4b3bac72f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/.idea/ExceptionFile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/BacaFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/BacaFile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/BacaFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/DATA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/dian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/out/production/BacaFile/com/BacaFile/BacaFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/out/production/BacaFile/com/BacaFile/Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/out/production/BacaFile/com/BacaFile/total.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/out/production/BacaFile/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/src/com/BacaFile/BacaFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/src/com/BacaFile/Data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/src/com/BacaFile/total.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/total" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/ExceptionFile/BacaFile/BacaFile/total.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/Hewan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/out/production/Hewan/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/out/production/Hewan/com/hewan/Hewan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/out/production/Hewan/com/hewan/buatHewan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/src/com/hewan/Hewan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Hewan/src/com/hewan/buatHewan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/Question.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/src/com/question/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/Question/src/com/question/demoQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/blajarclass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/out/production/blajarclass/com/Belajarclass/belajarclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/out/production/blajarclass/com/Belajarclass/mobil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/out/production/blajarclass/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/src/com/Belajarclass/belajarclass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/src/com/Belajarclass/mobil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/blajarclass/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/mobil.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/out/production/mobil/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/out/production/mobil/com/mobil/buatMobil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/out/production/mobil/com/mobil/mobil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/src/com/mobil/buatMobil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/Object &amp; Class/mobil/src/com/mobil/mobil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/.idea/belajaroverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/belajaroverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/belajaroverloading/BelajarOverLoading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/belajaroverloading/ContohOverLoading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/belajarstatic/BelajarStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/belajarstatic/ContohStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/pewarisan/DariOrtu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/pewarisan/MilikAnak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/out/production/belajaroverloading/com/pewarisan/Pewarisan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/belajaroverloading/BelajarOverLoading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/belajaroverloading/ContohOverLoading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/belajarstatic/BelajarStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/belajarstatic/ContohStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/pewarisan/DariOrtu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/pewarisan/MilikAnak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading/src/com/pewarisan/Pewarisan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Contohnya/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Contohnya/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/InputKaryawan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/InputKaryawan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/InputKaryawan2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/InputKaryawan2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/Karyawan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/Karyawan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/Karyawan2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Karyawan/com/Karyawan/Karyawan2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Karyawan/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Karyawan/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/catatan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/catatan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/biodata/Biodata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/biodata/Biodata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/biodata/DaftarBiodata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/biodata/DaftarBiodata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Dosen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Dosen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Mahasiswa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Mahasiswa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Output.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Output.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/uangzidni/DariOrtu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/uangzidni/DariOrtu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/uangzidni/Penghasilan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/uangzidni/Penghasilan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/uangzidni/TotalUang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/out/production/uangzidni/com/uangzidni/TotalUang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/biodata/Biodata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/biodata/Biodata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/biodata/DaftarBiodata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/biodata/DaftarBiodata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Dosen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Dosen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Mahasiswa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/datadosenmahasiswa/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/uangzidni/DariOrtu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/uangzidni/DariOrtu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/uangzidni/Penghasilan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/uangzidni/Penghasilan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/uangzidni/TotalUang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/src/com/uangzidni/TotalUang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/uangzidni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/Pertemuan 5 QUIS_Muhammad Ardiansyah_0110218049/uangzidni/uangzidni.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/biodata/Biodata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/biodata/Biodata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/biodata/DaftarBiodata.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/biodata/DaftarBiodata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Dosen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Dosen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Mahasiswa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Mahasiswa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Output.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Output.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/datadosenmahasiswa/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/uangzidni/DariOrtu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/uangzidni/DariOrtu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/uangzidni/Penghasilan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/uangzidni/Penghasilan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/uangzidni/TotalUang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/out/production/uangzidni/com/uangzidni/TotalUang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/biodata/Biodata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/biodata/Biodata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/biodata/DaftarBiodata.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/biodata/DaftarBiodata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Dosen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Dosen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Mahasiswa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/datadosenmahasiswa/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/uangzidni/DariOrtu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/uangzidni/DariOrtu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/uangzidni/Penghasilan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/uangzidni/Penghasilan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/uangzidni/TotalUang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/src/com/uangzidni/TotalUang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/uangzidni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Praktikum 5/uangzidni/uangzidni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../helloword/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../helloword/src/main/java/helloword.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../praktikum02/AngkaTertentu/build.xml" beforeDir="false" />
@@ -115,7 +282,7 @@
   <component name="ProjectId" id="1SAxjwj3cCBZASZTUDhjqYCJEkB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Praktikum/belajaroverloading/belajaroverloading" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Praktikum 03/Question" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
